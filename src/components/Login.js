@@ -25,6 +25,10 @@ const Login = () => {
         <button className="p-2 my-6 bg-red-600 w-full rounded-sm">
           Sign In
         </button>
+        <p className="p-2 my-7">
+          <span>New to Netflix?</span>
+          <span> Sign up now.</span>
+        </p>
       </form>
     </div>
   );
