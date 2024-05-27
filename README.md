@@ -10,6 +10,13 @@
 - Sign up form
 - Form Validation
 - useRef Hook
+- Firebase Setup
+- Firebase deploy
+  - npm i -g firebase-tools
+  - firebase login
+  - firebase init
+  - firebase deploy
+- create signup user account
 
 # Features
 
