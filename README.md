@@ -17,6 +17,8 @@
   - firebase init
   - firebase deploy
 - create signup user account
+- Implement Sign In User Api
+- Created Redux store with userSlice
 
 # Features
 
