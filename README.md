@@ -25,6 +25,14 @@
 - Add hard coded value to the constant files
 - Registered for TMDB api and created access token
 - Get data from TMDB now playing movies
+- Custom hooks for fetching data
+- updated store with movies data
+- Created movies slice
+- Planning for Main Container and Secondary Container
+- Fetch data for trailer video data
+- Updated store with trailer video data
+- Embeded Youtube video
+- Added Tailwind CSS
 
 # Features
 
