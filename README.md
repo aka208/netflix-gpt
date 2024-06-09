@@ -33,6 +33,11 @@
 - Updated store with trailer video data
 - Embeded Youtube video
 - Added Tailwind CSS
+- Secondary component built
+- Created Movie List
+- Created movie card
+- Made browse page CSS changes
+- Created custom hooks for popular movies
 
 # Features
 
