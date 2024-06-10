@@ -2,7 +2,7 @@ import React from "react";
 import { MOVIE_POSTER_URL } from "../utils/constants";
 
 const MovieCard = ({ movie }) => {
-  const { original_title, backdrop_path, poster_path } = movie;
+  const { original_title, poster_path } = movie;
   return (
     // <div className="w-64">
     <div className="w-48 snap-center">
