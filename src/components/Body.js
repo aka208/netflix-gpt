@@ -4,6 +4,7 @@ import Login from "./Login";
 
 const Body = () => {
   const appRoutes = createBrowserRouter([
+    { path: "/", element: <Login /> },
     { path: "/login", element: <Login /> },
     { path: "/browse", element: <Browse /> },
   ]);
