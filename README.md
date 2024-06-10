@@ -38,6 +38,7 @@
 - Created movie card
 - Made browse page CSS changes
 - Created custom hooks for popular movies
+- GPT Search feature
 
 # Features
 
