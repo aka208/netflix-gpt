@@ -10,4 +10,4 @@ export const API_OPTIONS = {
       "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjODUyNWUzYzcxODgwMTQ3NWI2MmYyZjM1YmIyYWE2MyIsInN1YiI6IjY2NjQyYzAyN2UyY2RlYzYxZDEzNmU5YiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gP_VgaTouXC75F4gcQYxGXOUC_OPBAKdVXnROxQGbsA",
   },
 };
-export const MOVIE_POSTER_URL = "https://image.tmdb.org/t/p/w500";
+export const MOVIE_POSTER_URL = "https://image.tmdb.org/t/p/w780";

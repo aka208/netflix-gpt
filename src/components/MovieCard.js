@@ -5,7 +5,7 @@ const MovieCard = ({ movie }) => {
   const { original_title, poster_path } = movie;
   return (
     // <div className="w-64">
-    <div className="w-48 snap-center">
+    <div className="w-72 snap-center">
       <img
         className="rounded-md"
         src={MOVIE_POSTER_URL + poster_path}
