@@ -39,6 +39,9 @@
 - Made browse page CSS changes
 - Created custom hooks for popular movies
 - GPT Search feature
+- GPT Search Page
+- GPT Search Bar
+- (STAR FEATURE) Added multi lingual feature in GPT Search Page
 
 # Features
 
