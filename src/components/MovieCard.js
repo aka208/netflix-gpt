@@ -3,6 +3,7 @@ import { MOVIE_POSTER_URL } from "../utils/constants";
 
 const MovieCard = ({ movie }) => {
   const { original_title, poster_path } = movie;
+  if (!poster_path) return null;
   return (
     // <div className="w-64">
     <div className="w-72 snap-center">
