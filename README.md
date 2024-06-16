@@ -42,6 +42,14 @@
 - GPT Search Page
 - GPT Search Bar
 - (STAR FEATURE) Added multi lingual feature in GPT Search Page
+- Get GPT Search OpenAI api key
+- GPT Search API call
+- Fetched GPT movies suggestions from TMDB
+- GPT slice created and data added
+- Reused Movie List component to make movie suggestion container
+- Momoization
+- Adding .env file to .gitignore
+- Made site responsive
 
 # Features
 
