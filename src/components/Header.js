@@ -54,8 +54,12 @@ const Header = () => {
     dispatch(changeLanguage(event.target.value));
   };
   return (
-    <div className="w-screen absolute z-10 flex justify-between bg-gradient-to-b from-black">
-      <img className="w-64 px-8 py-2" src={LOGO} alt="Netflix Logo" />
+    <div className="w-screen absolute z-10 bg-gradient-to-b from-black flex flex-col md:flex-row md:justify-between">
+      <img
+        className="w-64 py-2 mx-auto md:mx-0"
+        src={LOGO}
+        alt="Netflix Logo"
+      />
       {user && (
         <div className="flex p-5">
           {showGptSearch && (
