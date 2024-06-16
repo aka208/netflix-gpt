@@ -62,18 +62,18 @@ const Header = () => {
       />
       {user && (
         <div className="flex p-5">
-          {showGptSearch && (
-            <select
-              className="p-2 m-2 bg-gray-950 text-white"
-              onChange={handleLanguageSelectorChange}
-            >
-              {SUPPORTED_LANGUAGES.map((language) => (
-                <option key={language.identifier} value={language.identifier}>
-                  {language.name}
-                </option>
-              ))}
-            </select>
-          )}
+          {/* {showGptSearch && ( */}
+          <select
+            className="p-2 m-2 bg-gray-950 text-white"
+            onChange={handleLanguageSelectorChange}
+          >
+            {SUPPORTED_LANGUAGES.map((language) => (
+              <option key={language.identifier} value={language.identifier}>
+                {language.name}
+              </option>
+            ))}
+          </select>
+          {/* )} */}
 
           <button
             className="px-4 m-2 bg-purple-800 text-white rounded-md mx-4 my-2"

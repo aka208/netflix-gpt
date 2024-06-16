@@ -96,7 +96,7 @@ const Login = () => {
       <Header />
       <div className="absolute">
         <img
-          className="h-screen object-cover brightness-50"
+          className="object-cover brightness-50 bg-cover h-screen md:h-full"
           src={BACKGROUND_IMG}
           alt="background"
         />
